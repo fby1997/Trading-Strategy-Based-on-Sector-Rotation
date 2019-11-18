@@ -4,4 +4,11 @@ This is a trading strategy for the final round of a data mining competition. The
 
 By scoring the high correlation pair of industry indexs, we can set up the asset allocation  weight. We also used Multiple Lasso Regression to optimized the strategy performance. The total report will be released after the final competition. 
 
-**Note:** The report are in Chinese. 
+Here's the image of net value and part of the index weight selection.
+
+![image](https://github.com/fby1997/Trading-Strategy-Based-on-Sector-Rotation/blob/master/net_value.png)
+
+![image](https://github.com/fby1997/Trading-Strategy-Based-on-Sector-Rotation/blob/master/index_weight.png)
+
+
+**Note:** The report will be in Chinese. 
